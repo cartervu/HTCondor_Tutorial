@@ -1,0 +1,8 @@
+executable	= script.py
+output		= output/$(ClusterId).$(ProcId).out
+error		= error/$(ClusterId).$(ProcId).err
+log		= log/$(ClusterId).log
+
+queue transfer_input_files, arguments from (
+script.txt
+)

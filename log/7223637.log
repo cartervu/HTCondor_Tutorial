@@ -1,0 +1,30 @@
+040 (7223637.000.000) 11/12 02:55:58 Started transferring input files
+	Transferring to host: <128.142.71.171:9618?addrs=128.142.71.171-9618&noUDP&sock=2630_d2a4_32251>
+...
+040 (7223637.000.000) 11/12 02:55:58 Finished transferring input files
+...
+001 (7223637.000.000) 11/12 02:55:59 Job executing on host: <128.142.71.171:9618?addrs=128.142.71.171-9618&noUDP&sock=2181_9025_3>
+...
+006 (7223637.000.000) 11/12 02:55:59 Image size of job updated: 812
+	0  -  MemoryUsage of job (MB)
+	0  -  ResidentSetSize of job (KB)
+...
+040 (7223637.000.000) 11/12 02:55:59 Started transferring output files
+...
+040 (7223637.000.000) 11/12 02:55:59 Finished transferring output files
+...
+005 (7223637.000.000) 11/12 02:55:59 Job terminated.
+	(1) Normal termination (return value 1)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	150  -  Run Bytes Sent By Job
+	302  -  Run Bytes Received By Job
+	150  -  Total Bytes Sent By Job
+	302  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       23        2    291430 
+	   Memory (MB)          :        0     2000      2000 
+...
